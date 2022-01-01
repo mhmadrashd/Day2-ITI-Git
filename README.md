@@ -16,4 +16,4 @@ git tag -d tagName
 git push remoteName --delete tagName
 
 ## How to add an image in the README.md file
-![This is an image](https://myoctocat.com/assets/images/git-logo.png)
+![This is an image](https://github.com/mhmadrashd/Day2-ITI-Git/git-logo.png)
